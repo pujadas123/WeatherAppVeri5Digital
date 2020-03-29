@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="classic_darkTheme_colorPrimaryDark">#263238</color>
+    <color name="classic_darkTheme_colorAccent">#90a4ae</color>
+    <color name="classic_darkTheme_colorBackground">#303030</color>
+    <color name="classic_darkTheme_colorTintedBackground">#263238</color>
+
+    <color name="darkTheme_colorPrimary">#2196F3</color>
+    <color name="darkTheme_colorPrimaryDark">#1E88E5</color>
+    <color name="darkTheme_colorAccent">#2196F3</color>
+    <color name="darkTheme_colorBackground">#303030</color>
+    <color name="darkTheme_colorTintedBackground">#424242</color>
+    <color name="NewcolorPrimary">#5F2382</color>
+    <color name="blackTheme_colorBackground">#000000</color>
+
+    <color name="colorPrimaryHome">#313851</color>
+    <color name="colorPrimaryHomeTransparent">#B2313851</color>
+
+    <color name="background_color">#1EA6CE39</color>
+    <color name="background2_color">#0FF38208</color>
+    <color name="background3_color">#0A00ACCD</color>
+
+    <color name="colorBackgroundGrey">#eff3f6</color>
+
+    <color name="splashBackground">#607d8b</color>
+
+
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="color_thunderstroms">#B4A699</color>
+    <color name="color_clear_and_sunny">#F3644F</color>
+    <color name="color_partly_cloudy">#9ABA71</color>
+    <color name="color_gusty_winds">#8EB7EB</color>
+    <color name="color_hail_stroms">#A46B58</color>
+    <color name="color_snow">#8D9C9F</color>
+    <color name="color_mix_snow_and_rain">#D870A5</color>
+    <color name="color_cloudy_overnight">#856799</color>
+    <color name="color_heavy_rain">#67BCB7</color>
+
+</resources>
